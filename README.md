@@ -11,7 +11,7 @@ You can download the most recent version of tool [here](https://codeload.github.
   pip install -r requirements.txt
 ```
 
-## usage
+## 💻 usage
 
 ```bash
   python image_to_word.py
