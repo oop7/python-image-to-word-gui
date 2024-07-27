@@ -10,3 +10,10 @@ You can download the most recent version of tool [here](https://codeload.github.
 ```bash
   pip install -r requirements.txt
 ```
+
+## usage
+
+```bash
+  python image_to_word.py
+```
+
