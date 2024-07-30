@@ -1,5 +1,5 @@
 # Image-to-Word Converter
-## 📄Description
+## 📄 Description
 
 This Python-based application efficiently converts images containing text into editable Word documents. By leveraging the power of OCR technology, it accurately extracts text from images and transforms it into a structured Word format.
 ## 🔽 Download
